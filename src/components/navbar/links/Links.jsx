@@ -32,7 +32,7 @@ const Links = () => {
           >
             <Image src={"/fivver.png"} width={70} height={70} />
             <div className="flex flex-col">
-              <h1>FIVVER</h1>
+              <h1 className="text-orange-700">FIVVER</h1>
               <span className="text-xs">Technologies</span>
             </div>
           </Link>
