@@ -8,13 +8,10 @@ const Footer = () => {
       <aside>
         <Link href="/" className="flex gap-2 items-center ">
           <Image src={"/fivver.png"} width={70} height={70} />
-          <div className="flex flex-col">
-            <h1>FIVVER</h1>
-            <span className="text-xs">Technologies</span>
-          </div>
+        
         </Link>
         <p>
-          ACME Industries Ltd.
+       FIVVER Technologies
           <br />
           Providing reliable tech since 1992
         </p>
